@@ -1,0 +1,3 @@
+Start your story with a paragraph that introduces a character and setting:
+
+Shaokang Jiang: I am a student studying at UW-Madison currently. My major is Computer Science. I am familiar with multiple coding languages, including C, java, python and more, and environments, including windows, sql and linux. I am still finding my area of interesting right now. 
